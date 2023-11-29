@@ -1,2 +1,2 @@
 # hell
-pls sudo rm -rf me
+my first JS app with html
